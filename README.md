@@ -11,6 +11,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-[![Discord](https://img.shields.io/discord/3fJ9gKq98Q?style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/3fJ9gKq98Q)
 
 
