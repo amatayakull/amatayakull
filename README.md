@@ -1,2 +1,7 @@
 # henrike
-biografia manin
+
+Low level vibecoding :P
+
+# Contact
+Discord: zhenrikepvp_
+
