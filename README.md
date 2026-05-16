@@ -3,6 +3,12 @@
 />
 
 # Very low level vibecoding for fun
+**i mostly use**
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 [![Discord](https://img.shields.io/discord/3fJ9gKq98Q?style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/3fJ9gKq98Q)
 
