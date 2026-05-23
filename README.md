@@ -1,5 +1,5 @@
 <img 
-  <img width="640" height="360" alt="bg" src="https://github.com/user-attachments/assets/817e3c61-11b2-4505-877f-17dff98dfc24" />
+  <img alt="bg" src="https://github.com/user-attachments/assets/817e3c61-11b2-4505-877f-17dff98dfc24" />
 
 
 # Very low level vibecoding for fun
